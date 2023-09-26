@@ -1,2 +1,5 @@
-# hello-world
- meu **primeiro** repositório público :)
+# Hello, world!
+
+---
+
+Esse é o meu **primeiro** repositório público :)
